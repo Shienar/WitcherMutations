@@ -1,0 +1,182 @@
+"Keybinds.Open Mutagen Menu.DisplayName": Open  Mutagen  Menu
+
+Items: {
+	LesserBlueMutagen: {
+		DisplayName: Lesser Blue Mutagen
+		Tooltip: ""
+	}
+
+	BlueMutagen: {
+		DisplayName: Blue Mutagen
+		Tooltip: ""
+	}
+
+	GreaterBlueMutagen: {
+		DisplayName: Greater Blue Mutagen
+		Tooltip: ""
+	}
+
+	GreaterYellowMutagen: {
+		DisplayName: Greater Yellow Mutagen
+		Tooltip: ""
+	}
+
+	LesserYellowMutagen: {
+		DisplayName: Lesser Yellow Mutagen
+		Tooltip: ""
+	}
+
+	YellowMutagen: {
+		DisplayName: Yellow Mutagen
+		Tooltip: ""
+	}
+
+	GrayMutagen: {
+		DisplayName: Gray Mutagen
+		Tooltip: ""
+	}
+
+	GreaterGrayMutagen: {
+		DisplayName: Greater Gray Mutagen
+		Tooltip: ""
+	}
+
+	GreaterGreenMutagen: {
+		DisplayName: Greater Green Mutagen
+		Tooltip: ""
+	}
+
+	GreaterOrangeMutagen: {
+		DisplayName: Greater Orange Mutagen
+		Tooltip: ""
+	}
+
+	GreaterPinkMutagen: {
+		DisplayName: Greater Pink Mutagen
+		Tooltip: ""
+	}
+
+	GreaterRedMutagen: {
+		DisplayName: Greater Red Mutagen
+		Tooltip: ""
+	}
+
+	GreaterWhiteMutagen: {
+		DisplayName: Greater White Mutagen
+		Tooltip: ""
+	}
+
+	GreenMutagen: {
+		DisplayName: Green Mutagen
+		Tooltip: ""
+	}
+
+	LesserGrayMutagen: {
+		DisplayName: Lesser Gray Mutagen
+		Tooltip: ""
+	}
+
+	LesserGreenMutagen: {
+		DisplayName: Lesser Green Mutagen
+		Tooltip: ""
+	}
+
+	LesserOrangeMutagen: {
+		DisplayName: Lesser Orange Mutagen
+		Tooltip: ""
+	}
+
+	LesserPinkMutagen: {
+		DisplayName: Lesser Pink Mutagen
+		Tooltip: ""
+	}
+
+	LesserRedMutagen: {
+		DisplayName: Lesser Red Mutagen
+		Tooltip: ""
+	}
+
+	LesserWhiteMutagen: {
+		DisplayName: Lesser White Mutagen
+		Tooltip: ""
+	}
+
+	OrangeMutagen: {
+		DisplayName: Orange Mutagen
+		Tooltip: ""
+	}
+
+	PinkMutagen: {
+		DisplayName: Pink Mutagen
+		Tooltip: ""
+	}
+
+	RedMutagen: {
+		DisplayName: Red Mutagen
+		Tooltip: ""
+	}
+
+	WhiteMutagen: {
+		DisplayName: White Mutagen
+		Tooltip: ""
+	}
+
+	Slaughterhouse: {
+		DisplayName: Slaughterhouse
+		Tooltip: ""
+	}
+
+	HarmonicSummons: {
+		DisplayName: Harmonic Summons
+		Tooltip: ""
+	}
+
+	EndlessFury: {
+		DisplayName: Endless Fury
+		Tooltip: ""
+	}
+
+	PerfectShot: {
+		DisplayName: Perfect Shot
+		Tooltip: ""
+	}
+
+	Retribution: {
+		DisplayName: Retribution
+		Tooltip: ""
+	}
+
+	LightningReflexes: {
+		DisplayName: Lightning Reflexes
+		Tooltip: ""
+	}
+
+	Unstoppable: {
+		DisplayName: Unstoppable
+		Tooltip: ""
+	}
+
+	SorcerersWrath: {
+		DisplayName: Sorcerer's Wrath
+		Tooltip: ""
+	}
+}
+
+Content.Misc.MutagenDropCondition: Mods.WitcherMutations.Content.Misc.MutagenDropCondition
+
+Buffs: {
+	Slaughterhouse_Buff: {
+		DisplayName: Slaughterhouse_ Buff
+		Description: Mods.WitcherMutations.Buffs.Slaughterhouse_Buff.Description
+	}
+
+	Unstoppable_Buff: {
+		DisplayName: Unstoppable_ Buff
+		Description: Mods.WitcherMutations.Buffs.Unstoppable_Buff.Description
+	}
+
+	Unstoppable_Cooldown: {
+		DisplayName: Unstoppable_ Cooldown
+		Description: Mods.WitcherMutations.Buffs.Unstoppable_Cooldown.Description
+	}
+}
