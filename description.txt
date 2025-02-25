@@ -1,0 +1,26 @@
+	This mod implements an additional accessory system inspired by the mutagens and mutations present in The Witcher 3: Wild Hunt. 
+
+	There are eight types of mutagens that can drop from enemies in various biomes.
+		- Blue mutagens increase mana and magic damage. They drop in the glowing mushroom biome.
+		- Yellow mutagens increase ranged damage and drop in the desert.
+		- White mutagens increase summon damage and drop in the ice biome.
+		- Red mutagens increase melee damage and drop in the evil biomes.
+		- Orange mutagens increases damage done by all classes, and it drops in hell.
+		- Pink mutagens increase movement speed and drop in the hallow.
+		- Green mutagens increase max health and drop in the jungle.
+		- Gray mutagens reduce damage taken and drop in the caverns.
+
+	Mutagens come in three different strengths
+		- Lesser mutagens can drop at any time.
+		- Regular mutagens can drop in hardmode. They can be crafted from three lesser mutagens with an orichalcum/mythril anvil.
+		- Greater mutagens can drop after golem has been defeated. They can be crafted from three regular mutagens at an ancient manipulator.
+
+	The following mutations can be crafted using greater mutagens at an ancient manipulator.
+		- Sorcerer's Wrath: When you hit an enemy with a magic attack, you have a 25% chance to create an explosion that deals 50% of the original damage in a 5 tile radius.
+		- Harmonic Summons: Increase summon damage by 10% for every unique type of active summon, up to a maximum of 50%.
+		- Endless Fury: Increase melee critical strike chance by 3% for every enemy within 81.25 tiles, up to a maximum of 30%.
+		- Perfect Shot: All ranged attacks will home in onto the nearest target.
+		- Slaughterhouse: Killing an enemy increases damage done by 5% for 15 seconds, up to a maximum of 25%. Taking damage will remove this bonus.
+		- Lightning Reflexes: Slows down enemy movement by 15%.
+		- Unstoppable: Upon reaching zero health, instead restore 20% health and become immune to damage for 4 seconds. (180s cooldown).
+		- Retribution: Reflect 25% damage taken to your attacker.
